@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'EnBWDINPro';
+    font-weight: 400;
+    font-display: swap;
+    src: url('./EnBW-DIN-Pro.woff2') format('woff2'), url('./EnBW-DIN-Pro.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'EnBWDINPro';
+    font-weight: 500;
+    font-display: swap;
+    src: url('./EnBW-DIN-Pro-Medium.woff2') format('woff2'), url('./EnBW-DIN-Pro-Medium.woff') format('woff');
+}

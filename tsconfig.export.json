@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": false,
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "react",
+        "baseUrl": "src",
+        "declaration": true,
+        "declarationMap": true,
+        "rootDir": "src",
+        "outDir": "./dist",
+        "importHelpers": true
+    },
+    "exclude": ["node_modules", "dist", ".storybook", "stories"],
+    "include": ["src/**/*.ts", "**/*.tsx"]
+}

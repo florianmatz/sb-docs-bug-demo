@@ -1,0 +1,22 @@
+{
+    "name": "nd-component-factory",
+    "version": "0.1.0",
+    "description": "NetzeDigital Component Factory: Based on React Material UI & Next.js with a NetzeBW Flavor",
+    "module": "index.js",
+    "type": "module",
+    "types": "index.d.ts",
+    "keywords": ["NetzeBW, ND Component Factory, Next.js, React, Material UI, Theme"],
+    "author": "Bertil Ebker, Florian Matz, Christian Hartl",
+    "license": "ISC",
+    "peerDependencies": {
+        "@material-ui/core": "^4.11.0",
+        "@material-ui/icons": "^4.9.1",
+        "@material-ui/lab": "^4.0.0-alpha.56",
+        "@material-ui/pickers": "^3.2.10",
+        "@material-ui/system": "^4.9.14",
+        "next": "^9.5.3",
+        "react-dom": "16.13.1",
+        "react": "16.13.1",
+        "styled-components": "^5.1.1"
+    }
+}
